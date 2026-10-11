@@ -1,22 +1,26 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:203A43,100:58A6FF&height=210&section=header&text=Naman%20Soin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=curious%20mind%20%7C%20builder%20by%20instinct&descAlignY=56&descSize=17" width="100%" alt="Naman Soin"/>
-</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Exploring+the+space+between+math+and+code;Building+things+to+understand+how+they+work;Interested+in+data%2C+systems%2C+and+uncertainty;Always+asking+%22but+why%3F%22" alt="A few things about me"/>
-</div>
 
-<p align="center">
+  <img
+    src="./assets/terminal-header.svg"
+    width="100%"
+    alt="Terminal-style introduction for Naman Soin"
+  />
+
+  <br/>
+
   <a href="https://github.com/n4mansoin">
-    <img src="https://img.shields.io/badge/GitHub-n4mansoin-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-n4mansoin-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
   </a>
   <a href="mailto:namansoin000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Say_hello-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
+</div>
+
 
 Hey, I'm Naman.
 
