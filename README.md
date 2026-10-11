@@ -1,5 +1,4 @@
-```html
-<div align="center">
+ <div align="center">
 
   <img
     src="./assets/terminal-header.svg"
