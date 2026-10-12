@@ -1,150 +1,178 @@
-```html
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=%24%20naman%40github%3A~&fontSize=27&fontColor=3FB950&fontAlign=8&fontAlignY=35&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software&descSize=15&descAlign=8&descAlignY=58" width="100%" alt="Naman's terminal-style header"/>
+ <div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Naman+Soin.;Data+Science+%7C+Mathematics+%7C+Software;Building+things+with+data+and+code.;Exploring+machine+learning+%26+predictive+models." alt="Typing animation"/>
+  </a>
 
   <p>
     <a href="https://github.com/n4mansoin">GitHub</a> ·
     <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">LinkedIn</a> ·
     <a href="mailto:namansoin000@gmail.com">Email</a>
   </p>
+
 </div>
-```
 
 ---
 
 ## Hey, I'm Naman.
 
-I'm a student interested in **Data Science, Machine Learning, Mathematics, and Software Engineering**.
+I'm interested in what happens when **data, mathematics, and software come together**.
 
-I like problems where the answer isn't obvious. The ones where you start with an idea, test it, get an unexpected result, and have to figure out what's going on.
+I like building things that do more than just work: projects that uncover patterns, test ideas, or solve a problem I couldn't stop thinking about. That has led me from machine learning models to interactive applications, robotics, and the occasional design rabbit hole.
 
-That curiosity takes me from mathematical derivations to machine learning, from writing code to designing interfaces. I'm interested in both what happens under the hood and how the final product feels to use.
-
-A few things about how I work:
-
-- **Understand, don't memorise.** I'd rather know why a solution works than remember a shortcut.
-- **Build, then question.** Experiments teach me things that reading alone doesn't.
-- **Pay attention to the exceptions.** The cases a model gets wrong often interest me more than the ones it predicts correctly.
-- **Care about the details.** Good software isn't only functional; the experience matters, too.
-
-I'm still figuring out which problems I want to spend years solving. For now, I'm happy exploring the overlap between mathematics, intelligent systems, and the things we build with code.
+Currently exploring Data Science, predictive modelling, and the engineering behind useful software.
 
 ## Things I keep coming back to
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / Data & Intelligence</h3>
-      Machine learning, statistical modelling, pattern recognition, and understanding what makes predictions reliable.
-    </td>
+
+### Data & Intelligence
+
+Machine learning, predictive modelling, feature engineering, data visualisation, statistical analysis, model evaluation, and understanding why a model gets something wrong.
+
+</td>
     <td width="50%" valign="top">
-      <h3>02 / Mathematics</h3>
-      Derivations, algorithms, mathematical reasoning, and finding the logic behind a result instead of taking it at face value.
-    </td>
+
+### Mathematics
+
+Calculus, statistics, probability, optimisation, mathematical reasoning, and the logic behind algorithms. I like understanding why something works, not just memorising how to use it.
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 / Software & Systems</h3>
-      Python, web development, robotics, and turning ideas into things that work beyond a notebook.
-    </td>
+
+### Software & Systems
+
+Python, C++, JavaScript, web development, algorithm design, APIs, robotics, and turning prototypes into something people can actually use.
+
+</td>
     <td width="50%" valign="top">
-      <h3>04 / Design & Creativity</h3>
-      Thoughtful interfaces, visual storytelling, music, and the small decisions that make an experience feel right.
-    </td>
+
+### Design & Creativity
+
+UI/UX, clean interfaces, visual storytelling, interactive experiences, and the small details that make a project feel considered rather than assembled.
+
+</td>
   </tr>
 </table>
 
-## My toolkit
+## The toolkit
 
-<p align="center">
-  <b>Languages & Web</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Python, C++, JavaScript, HTML and CSS"/>
+The tools I use across data projects, software, and experimentation.
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-<p align="center">
-  <b>Data Science & Machine Learning</b><br/><br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-189B55?style=flat-square" alt="XGBoost"/>
+### Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
 </p>
 
-<p align="center">
-  <b>Tools</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+**Areas:** supervised learning · feature engineering · regression and classification · model evaluation · data cleaning · exploratory data analysis · visualisation
+
+### Development & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
-<details>
-  <summary><b>What I'm working on as a developer</b></summary>
-  <br/>
+I choose tools based on the problem, not the other way around.
 
-  - Strengthening my understanding of algorithms and data structures.
-  - Learning to evaluate machine learning models beyond a single accuracy score.
-  - Writing cleaner, more maintainable code.
-  - Improving my approach to testing, debugging, and software design.
-  - Getting better at explaining technical ideas clearly.
-</details>
+## A few projects
 
-## A few things I believe
+A selection of things I've built. The repositories have the code and implementation details.
 
-> Understanding beats memorisation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-> A working prototype teaches you things a perfect plan won't.
+**[F1 Replay Viewer](https://github.com/n4mansoin/F1-replay-viewer)**
 
-> An unexpected result is often more interesting than a correct prediction.
+A project at the intersection of software, visualisation, and motorsport data.
 
-I don't want to learn technology only to know how to use it. I want to understand its assumptions, where it falls short, and what happens when those assumptions stop holding.
+</td>
+    <td width="50%" valign="top">
+
+**[Weather Glider](https://github.com/n4mansoin/weather_glider)**
+
+An electronics and programming project involving environmental sensors and flight-data visualisation.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**[Tic Tac Toe Bot](https://github.com/n4mansoin/tic_tac_toe_bot)**
+
+A small game project exploring programming logic and decision-making.
+
+</td>
+    <td width="50%" valign="top">
+
+**[Finovate](https://github.com/n4mansoin/finovate)**
+
+An exploration of finance and software.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**[Market Arena](https://github.com/n4mansoin/Market-Arena)**
+
+A project exploring markets through an interactive software experience.
+
+</td>
+    <td width="50%" valign="top">
+
+**[Byte26](https://github.com/n4mansoin/byte26)**
+
+One of my other projects in the mix.
+
+</td>
+  </tr>
+</table>
+
+## What I believe
+
+- **Understand the model, not just the metric.** A good score is a starting point for asking better questions.
+- **Exceptions are interesting.** The cases a model gets wrong can reveal more than the ones it predicts correctly.
+- **Build, test, rethink.** An idea becomes useful when it survives contact with reality.
+- **Good design is part of the engineering.** How something works and how someone experiences it both matter.
 
 ## The GitHub corner
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=5" alt="Most-used programming languages"/>
-</p>
-
-<p align="center">
-  <sub>Less scoreboard. More actual code.</sub>
-</p>
-
-<details>
-  <summary><b>A note on what you'll find here</b></summary>
-  <br/>
-
-  This is where I explore ideas, learn new tools, experiment with code, and get better at building things.
-
-  Not everything starts out polished. That's part of the point.
-
-  If something breaks, there's a decent chance I'll try to understand why before giving up on it.
-</details>
-
-## Outside the terminal
-
-Mathematics problems that take longer than expected. Music that sounds different after changing a single note. An interface that needs one more adjustment. Helping other students get comfortable with technology.
-
-I also enjoy working with people, exchanging ideas, and helping turn a rough concept into something the group is proud of.
-
-Different interests, same instinct: **keep experimenting until something clicks.**
-
----
-
 <div align="center">
 
-  <h3>Have something interesting to build or figure out?</h3>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Most-used programming languages"/>
 
-  <a href="https://github.com/n4mansoin">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:namansoin000@gmail.com">Email me</a>
-
-  <br/><br/>
-
-  <i>"I don't have dreams, I have goals."</i><br/>
-  <sub>— Harvey Specter, Suits</sub>
-
-  <br/><br/>
-
-  <i>Still learning. Still building. Still asking why.</i>
+  <p><i>Less scoreboard. More actual code.</i></p>
 
 </div>
 
-<!-- Thanks for stopping by. -->
+---
+
+> "I don't have dreams, I have goals."
+>
+> — Harvey Specter, *Suits*
+
+<div align="center">
+  <sub>Curiosity first. Build something. Figure out what breaks. Repeat.</sub>
+</div>
