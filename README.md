@@ -226,6 +226,7 @@ A collaborative technology project focused on turning an idea into a working dig
   <p><i>"I don't have dreams, I have goals."</i></p>
   <p>— Harvey Specter, <i>Suits</i></p>
   <p><sub>A little quote from my favorite character before you move forward.</sub></p>
+</div>
   
 ## What's next?
 
