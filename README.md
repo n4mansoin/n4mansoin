@@ -1,23 +1,11 @@
  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=%24%20naman%40github%3A~&fontSize=27&fontColor=3FB950&fontAlign=8&fontAlignY=35&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software&descSize=15&descAlign=8&descAlignY=58" width="100%" alt="Naman's terminal-style header"/>
 
-  <img
-    src="./assets/terminal-header.svg"
-    width="100%"
-    alt="Terminal-style introduction for Naman Soin"
-  />
-
-  <br/>
-
-  <a href="https://github.com/n4mansoin">
-    <img src="https://img.shields.io/badge/GitHub-n4mansoin-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:namansoin000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_hello-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
+  <p>
+    <a href="https://github.com/n4mansoin">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">LinkedIn</a> ·
+    <a href="mailto:namansoin000@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
@@ -152,4 +140,3 @@ Different interests, same instinct: **keep experimenting until something clicks.
 </div>
 
 <!-- Thanks for stopping by. -->
-```
