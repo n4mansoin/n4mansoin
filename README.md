@@ -66,7 +66,7 @@ I like understanding the reasoning behind a system, not just getting it to work.
 ## My toolkit
 
 <div align="center">
-  <sub>Exploring the intersections of Data Science · Machine Learning · Mathematics · Software Engineering · Robotics · UI/UX Design</sub>
+  <sub>Exploring the intersections of Data Science · Machine Learning · Mathematics · Software Engineering · UI/UX Design</sub>
 </div>
 
 <div align="center">
@@ -215,11 +215,9 @@ A collaborative technology project focused on turning an idea into a working dig
 
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=n4mansoin&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true"
-    width="95%"
-    alt="GitHub contribution activity"
-  />
+
+![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=n4mansoin&bg_color=0D1117&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true)
+
 </div>
 
   <p><i>Less scoreboard. More actual code.</i></p>
