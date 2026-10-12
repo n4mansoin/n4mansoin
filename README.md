@@ -1,4 +1,5 @@
- <div align="center">
+```html
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=%24%20naman%40github%3A~&fontSize=27&fontColor=3FB950&fontAlign=8&fontAlignY=35&desc=Data%20Science%20%7C%20Mathematics%20%7C%20Software&descSize=15&descAlign=8&descAlignY=58" width="100%" alt="Naman's terminal-style header"/>
 
   <p>
@@ -7,6 +8,7 @@
     <a href="mailto:namansoin000@gmail.com">Email</a>
   </p>
 </div>
+```
 
 ---
 
@@ -96,12 +98,11 @@ I don't want to learn technology only to know how to use it. I want to understan
 ## The GitHub corner
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=n4mansoin&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="Naman's GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Most-used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=5" alt="Most-used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=n4mansoin&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak"/>
+  <sub>Less scoreboard. More actual code.</sub>
 </p>
 
 <details>
@@ -111,6 +112,8 @@ I don't want to learn technology only to know how to use it. I want to understan
   This is where I explore ideas, learn new tools, experiment with code, and get better at building things.
 
   Not everything starts out polished. That's part of the point.
+
+  If something breaks, there's a decent chance I'll try to understand why before giving up on it.
 </details>
 
 ## Outside the terminal
@@ -132,6 +135,11 @@ Different interests, same instinct: **keep experimenting until something clicks.
   <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">LinkedIn</a>
   &nbsp; · &nbsp;
   <a href="mailto:namansoin000@gmail.com">Email me</a>
+
+  <br/><br/>
+
+  <i>"I don't have dreams, I have goals."</i><br/>
+  <sub>— Harvey Specter, Suits</sub>
 
   <br/><br/>
 
