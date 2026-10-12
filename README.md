@@ -1,36 +1,27 @@
- <div align="center">
+
+<div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Naman+Soin.;Data+Science+%7C+Mathematics+%7C+Software;Building+things+with+data+and+code.;Exploring+machine+learning+%26+predictive+models." alt="Typing animation"/>
   </a>
 
-<div align="center">
-
-  <a href="https://github.com/n4mansoin">
-    <img src="https://cdn.simpleicons.org/github/white" width="32" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:namansoin000@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" width="32" alt="Email"/>
-  </a>
-
-</div>
+  <p>
+    <a href="https://github.com/n4mansoin">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="28" height="28" alt="GitHub"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:namansoin000@gmail.com">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" width="28" height="28" alt="Email"/>
+    </a>
+  </p>
 
 </div>
 
 ---
-
-## Hey, I'm Naman.
-
-I'm interested in what happens when **data, mathematics, and software come together**.
-
-I like building things that do more than just work: projects that uncover patterns, test ideas, or solve a problem I couldn't stop thinking about. That has led me from machine learning models to interactive applications, robotics, and the occasional design rabbit hole.
-
-Currently exploring Data Science, predictive modelling, and the engineering behind useful software.
 
 ## Things I keep coming back to
 
@@ -71,56 +62,73 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
 
 ## The toolkit
 
-The tools I use across data projects, software, and experimentation.
-
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="SQL/MySQL"/>
 </p>
 
 ### Data Science & Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="42" height="42" alt="Plotly"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="42" height="42" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>
 </p>
 
-**Areas:** supervised learning · feature engineering · regression and classification · model evaluation · data cleaning · exploratory data analysis · visualisation
+**Areas:** Supervised learning · Feature engineering · Regression and classification · Model evaluation · Data cleaning · Exploratory data analysis · Data visualisation · Statistical modelling
 
-### Development & Tools
+### Development, Databases & Deployment
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="42" height="42" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>
 </p>
 
-I choose tools based on the problem, not the other way around.
+### Design & Prototyping
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="42" height="42" alt="Canva"/>
+</p>
 
 ## A few projects
-
-A selection of things I've built. The repositories have the code and implementation details.
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-**[F1 Replay Viewer](https://github.com/n4mansoin/F1-replay-viewer)**
+### [F1 Replay Viewer](https://github.com/n4mansoin/F1-replay-viewer)
 
 A project at the intersection of software, visualisation, and motorsport data.
 
 </td>
     <td width="50%" valign="top">
 
-**[Weather Glider](https://github.com/n4mansoin/weather_glider)**
+### [Weather Glider](https://github.com/n4mansoin/weather_glider)
 
 An electronics and programming project involving environmental sensors and flight-data visualisation.
 
@@ -129,14 +137,14 @@ An electronics and programming project involving environmental sensors and fligh
   <tr>
     <td width="50%" valign="top">
 
-**[Tic Tac Toe Bot](https://github.com/n4mansoin/tic_tac_toe_bot)**
+### [Tic Tac Toe Bot](https://github.com/n4mansoin/tic_tac_toe_bot)
 
 A small game project exploring programming logic and decision-making.
 
 </td>
     <td width="50%" valign="top">
 
-**[Finovate](https://github.com/n4mansoin/finovate)**
+### [Finovate](https://github.com/n4mansoin/finovate)
 
 An exploration of finance and software.
 
@@ -145,16 +153,16 @@ An exploration of finance and software.
   <tr>
     <td width="50%" valign="top">
 
-**[Market Arena](https://github.com/n4mansoin/Market-Arena)**
+### [Market Arena](https://github.com/n4mansoin/Market-Arena)
 
 A project exploring markets through an interactive software experience.
 
 </td>
     <td width="50%" valign="top">
 
-**[Byte26](https://github.com/n4mansoin/byte26)**
+### [Byte26](https://github.com/n4mansoin/byte26)
 
-One of my other projects in the mix.
+Another project in my growing collection of software experiments.
 
 </td>
   </tr>
@@ -186,3 +194,4 @@ One of my other projects in the mix.
 <div align="center">
   <sub>Curiosity first. Build something. Figure out what breaks. Repeat.</sub>
 </div>
+```
