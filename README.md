@@ -4,11 +4,21 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Naman+Soin.;Data+Science+%7C+Mathematics+%7C+Software;Building+things+with+data+and+code.;Exploring+machine+learning+%26+predictive+models." alt="Typing animation"/>
   </a>
 
-  <p>
-    <a href="https://github.com/n4mansoin">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">LinkedIn</a> ·
-    <a href="mailto:namansoin000@gmail.com">Email</a>
-  </p>
+<div align="center">
+
+  <a href="https://github.com/n4mansoin">
+    <img src="https://cdn.simpleicons.org/github/white" width="32" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:namansoin000@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" width="32" alt="Email"/>
+  </a>
+
+</div>
 
 </div>
 
