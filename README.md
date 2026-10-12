@@ -19,23 +19,31 @@
 
   <!-- SOCIAL ICONS -->
   <a href="https://github.com/n4mansoin">
-    <img src="https://cdn.simpleicons.org/github/8B949E"
+    <img src="https://cdn.simpleicons.org/github/FFFFFF"
          width="28" height="28" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png"
          width="28" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:namansoin000@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/8B949E"
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF"
          width="28" height="28" alt="Email"/>
   </a>
 
 </div>
 
 ---
+
+## A little about me
+
+I'm interested in the space where **mathematics, data, and software meet**. I enjoy building things that help me investigate a question, test an idea, or find patterns that aren't immediately obvious.
+
+That curiosity has taken me from machine learning and predictive modelling to robotics, web development, and interface design. I'm especially drawn to problems involving uncertainty: how we make predictions, where those predictions fail, and what the exceptions can teach us.
+
+I like understanding the reasoning behind a system, not just getting it to work. And when I'm building something, I care about both the logic underneath and the experience people have using it.
 
 ## Things I keep coming back to
 
@@ -113,11 +121,7 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="44" height="44" alt="Keras"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="44" height="44" alt="Anaconda"/>
 </p>
 
 <p align="center">
@@ -133,8 +137,6 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="44" height="44" alt="Bash"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
@@ -143,13 +145,9 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="44" height="44" alt="Flask"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="44" height="44" alt="Supabase"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44" alt="AWS"/>
 </p>
@@ -160,6 +158,8 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="44" height="44" alt="Canva"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer"/>
 </p>
 
 </div>
@@ -228,7 +228,13 @@ Another project in my growing collection of software experiments.
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Most-used programming languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=n4mansoin&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="GitHub statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4mansoin&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Most-used programming languages"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=n4mansoin&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
   <p><i>Less scoreboard. More actual code.</i></p>
 
@@ -240,7 +246,12 @@ Another project in my growing collection of software experiments.
 >
 > — Harvey Specter, *Suits*
 
+## What's next?
+
+I'm continuing to explore Data Science, machine learning, and the mathematics behind useful predictive systems. I also want to keep building across disciplines, whether that means experimenting with a new model, developing a piece of software, or rethinking how an interface should work.
+
+I don't expect every idea to work on the first attempt. I'd rather build something, find out where it falls short, and understand why.
+
 <div align="center">
   <sub>Curiosity first. Build something. Figure out what breaks. Repeat.</sub>
 </div>
-```
