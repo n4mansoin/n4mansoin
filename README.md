@@ -1,21 +1,23 @@
- <!-- Replace with the full README below -->
+ <div align="center">
 
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Naman+Soin.;I+don't+play+the+odds.+I+calculate+them." alt="Typing introduction" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning+%7C+Software;Turning+data+into+predictions+and+ideas+into+software." alt="Areas of interest" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Naman+Soin.;I+don't+play+the+odds.+I+calculate+them." alt="Hey, I'm Naman Soin." />
 
   <br/>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=850&lines=Data+Science+%7C+Machine+Learning+%7C+Software;Turning+data+into+predictions+and+ideas+into+software." alt="Data Science, Machine Learning, Software" />
+
+  <br/><br/>
+
   <a href="https://github.com/n4mansoin">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=github&logoColor=000000" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" width="28" height="28" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="28" height="28" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:namansoin000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=gmail&logoColor=000000" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" width="28" height="28" alt="Email"/>
   </a>
 
 </div>
@@ -34,11 +36,28 @@ I like understanding the reasoning behind a system, not just getting it to work.
 
 <div align="center">
 
-| **Data & Intelligence** | **Mathematics** |
-|:---:|:---:|
-| Predictive modelling, machine learning, and finding patterns in data | Mathematical reasoning, probability, statistics, and optimisation |
-| **Software & Systems** | **Design & Creativity** |
-| Building applications, experimenting with algorithms, and solving practical problems | Creating interfaces that feel intuitive, thoughtful, and purposeful |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Data & Intelligence</h3>
+      Predictive modelling, machine learning, and finding patterns in data.
+    </td>
+    <td align="center" width="50%">
+      <h3>Mathematics</h3>
+      Mathematical reasoning, probability, statistics, and optimisation.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Software & Systems</h3>
+      Building applications, experimenting with algorithms, and solving practical problems.
+    </td>
+    <td align="center" width="50%">
+      <h3>Design & Creativity</h3>
+      Creating interfaces that feel intuitive, thoughtful, and purposeful.
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -118,42 +137,56 @@ I like understanding the reasoning behind a system, not just getting it to work.
 
 ## Things I've built
 
-<div align="center">
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/F1-replay-viewer">F1 Replay Viewer</a></h3>
-      An exploration of Formula 1 race data, bringing telemetry and race information into a more accessible visual experience.
-    </td>
+
+### [F1 Replay Viewer](https://github.com/n4mansoin/F1-replay-viewer)
+
+An exploration of Formula 1 race data, bringing telemetry and race information into a more accessible visual experience.
+
+</td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/weather_glider">Weather Glider</a></h3>
-      A sensor-based project combining electronics and programming to collect environmental data and make it easier to analyse.
-    </td>
+
+### [Weather Glider](https://github.com/n4mansoin/weather_glider)
+
+A sensor-based project combining electronics and programming to collect environmental data and make it easier to analyse.
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/tic_tac_toe_bot">Tic Tac Toe Bot</a></h3>
-      A game-playing project exploring decision-making, logical strategies, and how algorithms choose their next move.
-    </td>
+
+### [Tic Tac Toe Bot](https://github.com/n4mansoin/tic_tac_toe_bot)
+
+A game-playing project exploring decision-making, logical strategies, and how algorithms choose their next move.
+
+</td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/finovate">Finovate</a></h3>
-      A finance-focused project exploring how software can make financial information and analysis more accessible.
-    </td>
+
+### [Finovate](https://github.com/n4mansoin/finovate)
+
+A finance-focused project exploring how software can make financial information and analysis more accessible.
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/Market-Arena">Market Arena</a></h3>
-      A project exploring markets and data through an interactive software experience.
-    </td>
+
+### [Market Arena](https://github.com/n4mansoin/Market-Arena)
+
+A project exploring markets and data through an interactive software experience.
+
+</td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/n4mansoin/byte26">Byte26</a></h3>
-      A collaborative technology project focused on turning an idea into a working digital experience.
-    </td>
+
+### [Byte26](https://github.com/n4mansoin/byte26)
+
+A collaborative technology project focused on turning an idea into a working digital experience.
+
+</td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -184,20 +217,16 @@ I like understanding the reasoning behind a system, not just getting it to work.
 
 ---
 
-## What's next?
-
-I'm continuing to explore Data Science, machine learning, and the mathematics behind useful predictive systems. I also want to keep building across disciplines, whether that means experimenting with a new model, developing a piece of software, or rethinking how an interface should work.
-
-I don't expect every idea to work on the first attempt. I'd rather build something, find out where it falls short, and understand why.
-
 <div align="center">
-
-  <h2>Curiosity first. Build something. Figure out what breaks. Repeat.</h2>
 
   <br/>
 
   <p><i>"I don't have dreams, I have goals."</i></p>
   <p>— Harvey Specter, <i>Suits</i></p>
+
   <p><sub>A little quote from my favorite character before you move forward.</sub></p>
+
+  <h2>Curiosity first. Build something. Figure out what breaks. Repeat.</h2>
+
 
 </div>
