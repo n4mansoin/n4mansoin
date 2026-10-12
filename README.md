@@ -213,15 +213,6 @@ A collaborative technology project focused on turning an idea into a working dig
 
   <br/><br/>
 
-
-<div align="center">
-
- 
- ![![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=n4mansoin&theme=github-compact)](https://github.com/n4mansoin)
-
-
-</div>
-
   <p><i>Less scoreboard. More actual code.</i></p>
 
 </div>
@@ -234,14 +225,15 @@ A collaborative technology project focused on turning an idea into a working dig
 
   <p><i>"I don't have dreams, I have goals."</i></p>
   <p>— Harvey Specter, <i>Suits</i></p>
-
   <p><sub>A little quote from my favorite character before you move forward.</sub></p>
-
-##What's next?
+  
+## What's next?
 
 I'm continuing to explore Data Science, machine learning, and the mathematics behind useful predictive systems. I also want to keep building across disciplines, whether that means experimenting with a new model, developing a piece of software, or rethinking how an interface should work.
 
 I don't expect every idea to work on the first attempt. I'd rather build something, find out where it falls short, and understand why.
+
+<div align="center">
 
   <h2>Curiosity first. Build something. Figure out what breaks. Repeat.</h2>
 
