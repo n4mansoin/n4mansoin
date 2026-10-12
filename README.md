@@ -1,23 +1,37 @@
 
 <div align="center">
 
+  <!-- NAME TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Naman+Soin.;Data+Science+%7C+Mathematics+%7C+Software;Building+things+with+data+and+code.;Exploring+machine+learning+%26+predictive+models." alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=Hey%2C+I'm+Naman+Soin.;I+don't+play+the+odds.+I+calculate+them."
+         alt="Hey, I'm Naman Soin. I don't play the odds. I calculate them."/>
   </a>
 
-  <p>
-    <a href="https://github.com/n4mansoin">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="28" height="28" alt="GitHub"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="mailto:namansoin000@gmail.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" width="28" height="28" alt="Email"/>
-    </a>
-  </p>
+  <br/>
+
+  <!-- WHAT I DO TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=850&height=50&lines=Data+Science+%7C+Machine+Learning+%7C+Software;Turning+data+into+predictions+and+ideas+into+software."
+         alt="Data Science, Machine Learning, Software. Turning data into predictions and ideas into software."/>
+  </a>
+
+  <br/><br/>
+
+  <!-- SOCIAL ICONS -->
+  <a href="https://github.com/n4mansoin">
+    <img src="https://cdn.simpleicons.org/github/8B949E"
+         width="28" height="28" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/naman-soin-8917552a8/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
+         width="28" height="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:namansoin000@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/8B949E"
+         width="28" height="28" alt="Email"/>
+  </a>
 
 </div>
 
@@ -31,14 +45,14 @@
 
 ### Data & Intelligence
 
-Machine learning, predictive modelling, feature engineering, data visualisation, statistical analysis, model evaluation, and understanding why a model gets something wrong.
+Machine learning, predictive modelling, feature engineering, data visualisation, statistical analysis, and understanding why models succeed or fail.
 
 </td>
     <td width="50%" valign="top">
 
 ### Mathematics
 
-Calculus, statistics, probability, optimisation, mathematical reasoning, and the logic behind algorithms. I like understanding why something works, not just memorising how to use it.
+Calculus, probability, statistics, optimisation, and the logic behind algorithms. I prefer understanding why something works over memorising how to use it.
 
 </td>
   </tr>
@@ -47,7 +61,7 @@ Calculus, statistics, probability, optimisation, mathematical reasoning, and the
 
 ### Software & Systems
 
-Python, C++, JavaScript, web development, algorithm design, APIs, robotics, and turning prototypes into something people can actually use.
+Python, C++, web development, algorithm design, APIs, robotics, and turning prototypes into useful software.
 
 </td>
     <td width="50%" valign="top">
@@ -62,58 +76,93 @@ UI/UX, clean interfaces, visual storytelling, interactive experiences, and the s
 
 ## The toolkit
 
+<div align="center">
+
 ### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="SQL/MySQL"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/>
 </p>
 
 ### Data Science & Machine Learning
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="42" height="42" alt="Plotly"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="42" height="42" alt="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="scikit-learn"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="44" height="44" alt="Matplotlib"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="44" height="44" alt="Plotly"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="44" height="44" alt="Jupyter"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="44" height="44" alt="Keras"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="44" height="44" alt="Anaconda"/>
 </p>
 
-**Areas:** Supervised learning · Feature engineering · Regression and classification · Model evaluation · Data cleaning · Exploratory data analysis · Data visualisation · Statistical modelling
+<p align="center">
+  <sub>Statistical modelling · Regression · Classification · Feature engineering · Model evaluation · Exploratory data analysis · Data visualisation</sub>
+</p>
 
 ### Development, Databases & Deployment
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="42" height="42" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="42" height="42" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="44" height="44" alt="Bash"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="44" height="44" alt="Flask"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="44" height="44" alt="Supabase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44" alt="AWS"/>
 </p>
 
 ### Design & Prototyping
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="42" height="42" alt="Canva"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="44" height="44" alt="Figma"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="44" height="44" alt="Canva"/>
 </p>
+
+</div>
 
 ## A few projects
 
